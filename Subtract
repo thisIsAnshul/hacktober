@@ -1,0 +1,7 @@
+a=3
+b=4
+
+b=int(b)
+a=int(a)
+
+print(a-b)
